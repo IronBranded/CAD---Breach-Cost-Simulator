@@ -31,7 +31,7 @@ In the current threat landscape, a "breach" is more than just downtime, it is a 
 ---
 
 ## Logic
-The simulation logic is informed by a combination of academic research at **Polytechnique Montréal** and industry-standard reports (IBM, Sophos, Coveware).
+The simulation logic is informed by a combination of industry-standard reports (IBM, Sophos, Coveware, CSE).
 
 ### The Formula Approach
 The simulator uses a weighted impact matrix:
