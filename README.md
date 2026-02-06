@@ -10,7 +10,13 @@
 ---
 
 ## Initiate the Simulation
-[**Click Here to Launch Simulator**]([https://ironbranded.github.io/CAD---Breach-Cost-Simulator/]
+<div align="center">
+  
+  ### [**🚀 Launch the Interactive Simulator**](https://ironbranded.github.io/CAD---Breach-Cost-Simulator/)
+  *Real-time financial modeling for Law 25 & PIPEDA compliance*
+
+</div>
+
 
 ## Executive Overview
 In the current threat landscape, a "breach" is more than just downtime—it is a complex financial event. As an IR Analyst and SOC Coordinator, I developed this simulator to help organizations visualize the hidden costs of a compromise.
@@ -39,7 +45,7 @@ The simulator uses a weighted impact matrix:
 ---
 
 ## Author
-**[M.Decayette]** 
+**[M.Decayette (IronBranded)]** 
 
 ---
 *Disclaimer: This tool is for educational purposes. Actual costs vary based on insurance, data sensitivity, and IR response speed.*
