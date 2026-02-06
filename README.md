@@ -32,7 +32,7 @@ In the current threat landscape, a "breach" is more than just downtime—it is a
 ## Methodology
 The simulation logic is informed by a combination of academic research at **Polytechnique Montréal** and industry-standard reports (IBM, Sophos, Coveware).
 
-### The Formulaic Approach
+### The Formula Approach
 The simulator uses a weighted impact matrix:
 > $$TotalCost = (TechResponse) + (Legal/Regulatory) + (BusinessImpact)$$
 
