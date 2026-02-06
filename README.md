@@ -13,13 +13,12 @@
 <div align="center">
   
 ### [**🟢 Launch Simulator ➔**](https://ironbranded.github.io/CAD---Breach-Cost-Simulator/)
-*Real-time financial modeling for Law 25 & PIPEDA compliance*
 
 </div>
 
 
 ## Executive Overview
-In the current threat landscape, a "breach" is more than just downtime—it is a complex financial event. As an IR Analyst and SOC Coordinator, I developed this simulator to help organizations visualize the hidden costs of a compromise.
+In the current threat landscape, a "breach" is more than just downtime, it is a complex financial event. As an IR Analyst, I developed this simulator to help organizations visualize the hidden costs of a compromise.
 
 ### Key Calculation Vectors:
 * **Incident Scenarios:** Ransomware (Double Extortion), BEC, Data Leaks, and Insider Threats.
@@ -38,8 +37,8 @@ The simulator uses a weighted impact matrix:
 
 | Vector | Rate/Logic |
 | :--- | :--- |
-| **Technical IR** | Calculated at a standard Canadian IR rate of **$450/hr**. |
-| **Legal Counsel** | Privacy Coach / Breach Counsel rates at **$600/hr**. |
+| **Technical IR** | Calculated at a standard Canadian IR rate of **$300/hr**. |
+| **Legal Counsel** | Privacy Coach / Breach Counsel rates at **$500/hr**. |
 | **Fraud/Extortion** | Scaled based on annual revenue brackets and data volume. |
 
 ---
