@@ -488,8 +488,8 @@
       let incidentLabel = "";
       let duration = "";
       let irHours = 0, legalHours = 0, ransom = 0, downtime = 0;
-      const irRate = 450; 
-      const legalRate = 600;
+      const irRate = 300; 
+      const legalRate = 500;
 
       switch(type) {
         case "Ransomware":
@@ -566,7 +566,7 @@
         <div class="cost-row"><span>IR Services</span><span class="price">${formatCurrency(costIR)}</span></div>
         <div class="cost-row"><span>Digital Forensics</span><span class="price">${formatCurrency(costForensics)}</span></div>
         <div class="cost-row"><span>IT Recovery</span><span class="price">${formatCurrency(costRecovery)}</span></div>
-        <div class="subtotal" style="color:var(--accent-blue)"><span>TECHNICAL TOTAL</span><span>${formatCurrency(totalTech)}</span></div>
+        <div class="subtotal" style="color:var(--accent-blue)"><span> TOTAL</span><span>${formatCurrency(totalTech)}</span></div>
       `;
 
       // Legal
@@ -575,7 +575,7 @@
         <div class="cost-row"><span>Counsel & Coach</span><span class="price">${formatCurrency(costLegal)}</span></div>
         <div class="cost-row"><span>Notification</span><span class="price">${formatCurrency(notifyCost)}</span></div>
         <div class="cost-row"><span>Reg. Fines (Risk)</span><span class="price">${fineLabel}</span></div>
-        <div class="subtotal" style="color:var(--accent-purple)"><span>LEGAL TOTAL</span><span>${formatCurrency(totalLegal)}</span></div>
+        <div class="subtotal" style="color:var(--accent-purple)"><span>TOTAL</span><span>${formatCurrency(totalLegal)}</span></div>
       `;
 
       // Business
@@ -584,7 +584,7 @@
         <div class="cost-row"><span>Operational Downtime</span><span class="price">${formatCurrency(costBizInt)}</span></div>
         <div class="cost-row"><span>Crisis PR</span><span class="price">${formatCurrency(costPR)}</span></div>
         ${ransomRow}
-        <div class="subtotal" style="color:var(--accent-red)"><span>BUSINESS OPERATIONS IMPACT</span><span>${formatCurrency(totalBiz)}</span></div>
+        <div class="subtotal" style="color:var(--accent-red)"><span>Total</span><span>${formatCurrency(totalBiz)}</span></div>
       `;
 
       // 6. UPDATE CHART
