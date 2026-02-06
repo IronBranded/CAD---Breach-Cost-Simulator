@@ -9,10 +9,10 @@
 
 ---
 
-## 🚀 Live Demo
+## Initiate the Simulation
 [**Click Here to Launch Simulator**]([https://ironbranded.github.io/CAD---Breach-Cost-Simulator/]
 
-## 🛡️ Executive Overview
+## Executive Overview
 In the current threat landscape, a "breach" is more than just downtime—it is a complex financial event. As an IR Analyst and SOC Coordinator, I developed this simulator to help organizations visualize the hidden costs of a compromise.
 
 ### Key Calculation Vectors:
@@ -23,7 +23,7 @@ In the current threat landscape, a "breach" is more than just downtime—it is a
 
 ---
 
-## 📊 Methodology
+## Methodology
 The simulation logic is informed by a combination of academic research at **Polytechnique Montréal** and industry-standard reports (IBM, Sophos, Coveware).
 
 ### The Formulaic Approach
@@ -38,15 +38,8 @@ The simulator uses a weighted impact matrix:
 
 ---
 
-## 🛠️ Tech Stack
-* **Frontend:** HTML5 & CSS3 (Modern Flexbox/Grid).
-* **Styling:** "Midnight Security" UI with a dynamic CSS donut chart.
-* **Logic:** Vanilla JavaScript (ES6) for real-time cost modeling.
-
----
-
-## 👤 Author
-**[Your Name]** *IR Analyst / SOC Coordinator & Cybersecurity Researcher at Polytechnique Montréal.* **Specializing in:** Microsoft Security (DFIR/Threat Hunting), SecOps, and Cyber Fraud.
+## Author
+**[M.Decayette]** 
 
 ---
 *Disclaimer: This tool is for educational purposes. Actual costs vary based on insurance, data sensitivity, and IR response speed.*
