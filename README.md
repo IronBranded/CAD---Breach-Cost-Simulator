@@ -1,22 +1,16 @@
 # CAD---Breach-Cost-Simulator
-> **Visualizing the financial gravity of a compromise through the lens of IR and Canadian Regulatory frameworks.**
-
-[![Tech - HTML5](https://img.shields.io/badge/Frontend-HTML5-orange?style=flat-square)](#)
-[![Tech - JS](https://img.shields.io/badge/Logic-VanillaJS-yellow?style=flat-square)](#)
-[![Compliance - Law 25](https://img.shields.io/badge/Compliance-Law%2025%20%2F%20PIPEDA-blue?style=flat-square)](#)
-[![Role - IR Analyst](https://img.shields.io/badge/Expertise-IR%20%2F%20SOC-red?style=flat-square)](#)
-
 ---
 
-Initiate the Simulation
-
+> ### **Visualizing the financial gravity of a compromise through a Canadian lens.**
+---
 <div align="center">
     
-### [**🟢 Launch Simulator 🟢**](https://ironbranded.github.io/CAD---Breach-Cost-Simulator/) 
-    
+### [**🟢 LAUNCH THE SIMULATOR 🟢**](https://ironbranded.github.io/CAD---Breach-Cost-Simulator/)
+
 <div align="center">
 
-<hr width="50%"> <p> <small> <strong>DISCLAIMER</strong>
+---
+<p> <small> <strong>DISCLAIMER</strong>
 
 <em>* This simulator is a financial modeling tool intended for educational and risk-awareness purposes only ! *</em>
 
@@ -37,7 +31,7 @@ In the current threat landscape, a "breach" is more than just downtime, it is a 
 
 ---
 
-## Methodology
+## Logic
 The simulation logic is informed by a combination of academic research at **Polytechnique Montréal** and industry-standard reports (IBM, Sophos, Coveware).
 
 ### The Formula Approach
