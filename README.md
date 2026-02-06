@@ -14,14 +14,14 @@
 
 <em>* This simulator is a financial modeling tool intended for educational and risk-awareness purposes only ! *</em>
 
-Estimated figures are based on 2025-2026 Canadian industry benchmarks. Actual incident costs vary based on 
+Estimated figures are based on 2025-2026 Canadian industry benchmarks. Actual incident costs may significantly vary based on 
 <strong>insurance coverage</strong>, <strong>technical response speed</strong>, <strong>data type</strong>, and <strong>service rates</strong>. </small> </p> </div>
 
 </div>
 
 ---
 ## Executive Overview
-In the current threat landscape, a "breach" is more than just downtime, it is a complex financial event. As an IR Analyst, I developed this simulator to help organizations visualize the hidden costs of a compromise.
+In the current threat landscape, a "breach" is more than just downtime, it is a multi-level financial event. As an IR Analyst, I developed this simulator to help organizations visualize the hidden costs of a compromise.
 
 ### Key Calculation Vectors:
 * **Incident Scenarios:** Ransomware (Double Extortion), BEC, Data Leaks, and Insider Threats.
