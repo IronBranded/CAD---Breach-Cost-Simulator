@@ -56,9 +56,9 @@ $$
 
 This tool is built as a static, client-side web page.
 
-* 🔒 **Local Execution:** All drill-down logic and financial calculations occur exclusively within the user's browser.
-* 🚫 **No Transmission:** No information is transmitted to external servers, databases, or APIs.
-* 🍪 **No Tracking:** No cookies or persistent tracking mechanisms are utilized.
+* **Local Execution:** All drill-down logic and financial calculations occur exclusively within the user's browser.
+* **No Transmission:** No information is transmitted to external servers, databases, or APIs.
+* **No Tracking:** No cookies or persistent tracking mechanisms are utilized.
 
 ---
 
