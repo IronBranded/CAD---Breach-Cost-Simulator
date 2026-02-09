@@ -601,7 +601,7 @@
         <div style="background:rgba(168, 85, 247, 0.15); border:1px solid rgba(168, 85, 247,0.3); padding:8px; border-radius:6px; margin-bottom:12px; font-size:0.75rem; color:#d8b4fe;">
           <strong>REGULATORY NOTICE:</strong> Data breaches in Canada are governed by multiple regulatory regimes at the federal, provincial, and sector levels, each with its own notification thresholds, timelines, and compliance obligations. A single incident may trigger multiple regulatory requirements.
         </div>
-        <div class="cost-row"><span>Regulatory Risk (Fines)</span><span class="price">${formatCurrency(fineRisk)}</span></div>
+        <div class="cost-row"><span>Regulatory Fines</span><span class="price">${formatCurrency(fineRisk)}</span></div>
         <div class="cost-row"><span>Counsel & Notifications</span><span class="price">${formatCurrency(totalLegal - fineRisk)}</span></div>`;
 
       document.getElementById("bizDetails").innerHTML = `<h4>Business Impact</h4>
@@ -631,6 +631,7 @@
   </script>
 </body>
 </html>
+
 
 
 
