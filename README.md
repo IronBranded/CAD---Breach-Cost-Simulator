@@ -50,6 +50,15 @@ $$
 | **Legal Counsel** | Privacy Coach / Breach Counsel rates at **$500/hr**. |
 | **Fraud / Extortion** | Scaled based on annual revenue brackets and data volume. |
 
+
+
+### Insurance Logic & Parameters
+
+The tool allows the input of specific policy parameters to model a realistic recovery scenario:
+* **Coverage Limit:** The maximum aggregate amount the insurer will pay.
+* **Deductible (Retention):** The out-of-pocket amount the organization must pay before insurance triggers.
+
+
 ---
 
 ## Data Privacy
