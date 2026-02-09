@@ -438,7 +438,7 @@
         bizOps: "Operations Downtime",
         bizExtortion: "Extortion / Theft Loss",
         nctaTitle: "NCTA 2025-2026 STRATEGIC INTELLIGENCE",
-        nctaIntro: "Based on CSE observations, five core trends will shape Canada’s cyber threat environment onward. These are compounded by an expanding threat surface (Cloud-based AI/IoT) and persistent supply chain vulnerabilities.",
+        nctaIntro: "Based on CSE observations, five core trends will shape Canada's cyber threat environment onward. These are compounded by an expanding threat surface (Cloud-based AI/IoT) and persistent supply chain vulnerabilities.",
         nctaT1: "<strong>AI Technologies:</strong> Artificial intelligence is amplifying cyber space threats by accelerating research and scaling malicious activities.",
         nctaT2: "<strong>Tradecraft:</strong> Actor tradecraft is evolving to evade detection via <strong>Living off the Land</strong> and bypassing security mechanisms.",
         nctaT3: "<strong>Geopolitics:</strong> Non-state actors inspired by geopolitical events (PRC, Russia, Iran) are creating global unpredictability.",
@@ -554,7 +554,7 @@
             {v: "1.4", t: "Technologie"}
           ],
           records: [
-            {v: "", t: "Sélectionnez le nombre de dossiers"}
+            {v: "", t: "Sélectionnez le nombre de dossiers"},
             {v: "Low", t: "< 1 000 dossiers"},
             {v: "Medium", t: "1k - 10k dossiers"},
             {v: "High", t: "10k - 50k dossiers"},
@@ -692,17 +692,17 @@
       let incidentLabel = "", duration = "", irHours = 0, legalHours = 0, ransom = 0, downtime = 0;
       switch(type) {
         case "Ransomware":
-          incidentLabel = t.options.scenarios[0].t; downtime = 23; duration = "Avg. 30-90 Days";
+          incidentLabel = t.options.scenarios[1].t; downtime = 23; duration = "Avg. 30-90 Days";
           irHours = 120 * revenueMult; legalHours = 60 * revenueMult;
           ransom = (revenue === "Micro") ? 45000 : (revenue === "Small") ? 280000 : (revenue === "Mid") ? 850000 : 2400000;
           break;
         case "BEC":
-          incidentLabel = t.options.scenarios[1].t; downtime = 5; duration = "Avg. 2-5 Weeks";
+          incidentLabel = t.options.scenarios[2].t; downtime = 5; duration = "Avg. 2-5 Weeks";
           irHours = 50 * revenueMult; legalHours = 40 * revenueMult;
           ransom = (revenue === "Large") ? 750000 : 125000;
           break;
         case "DataBreach":
-          incidentLabel = t.options.scenarios[2].t; downtime = 3; duration = "Avg. 250+ Days Cycle";
+          incidentLabel = t.options.scenarios[3].t; downtime = 3; duration = "Avg. 250+ Days Cycle";
           irHours = 140 * revenueMult; legalHours = 220 * revenueMult;
           break;
         default:
@@ -781,9 +781,3 @@
   </script>
 </body>
 </html>
-
-
-
-
-
-
