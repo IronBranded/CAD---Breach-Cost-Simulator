@@ -2,7 +2,12 @@
 
 > **Visualizing the financial and operational gravity of a cyber incident through a Canadian lens.**
 
-### [**🟢 LAUNCH THE SIMULATOR 🟢**](https://ironbranded.github.io/CAD-Breach-Cost-Simulator/) 
+<h3 align="center">
+  <a href="https://ironbranded.github.io/CAD-Breach-Cost-Simulator/">
+    🟢 LAUNCH THE SIMULATOR 🟢
+  </a>
+</h3>
+
 ---
 
 ### ⚠️ DISCLAIMER
