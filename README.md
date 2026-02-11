@@ -19,7 +19,10 @@
 
 ## Executive Overview
 
-In the current threat landscape, a "breach" is more than just downtime; it is a multi-level financial event. As an IR Analyst, I developed this simulator to help organizations visualize the hidden costs of a compromise.
+In the current threat landscape, a "breach" is more than just downtime; it is a multi-level financial event. 
+
+> **Why this tool?**
+> As a Tactical DFIR Hunter in training, I believe that IR is not just about the "bits and bytes"—it's about understanding the business impact. This tool bridges the gap between technical and executive risk management.
 
 ### Key Calculation Vectors
 
