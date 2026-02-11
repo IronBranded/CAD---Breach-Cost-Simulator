@@ -22,7 +22,7 @@
 In the current threat landscape, a "breach" is more than just downtime; it is a multi-level financial event. 
 
 > **Why this tool?**
-> As a Tactical DFIR Hunter in training, I believe that IR is not just about the "bits and bytes"—it's about understanding the business impact. This tool bridges the gap between technical and executive risk management.
+> As a Tactical DFIR Hunter in training, I came to realize that DFIR is not just about the "bits and bytes", it's also about understanding the potential business impact. This tool helps bridge the gap between technical and executive risk management.
 
 ### Key Calculation Vectors
 
