@@ -14,8 +14,7 @@
 > *This simulator is a financial modeling tool intended for **educational and risk-awareness purposes only!***
 >
 > Estimated figures are based on **2025-2026 Canadian industry benchmarks**.
-> Please note that actual incident costs may significantly vary based on insurance coverage, technical response speed, data type, and service rates.
-
+> Please note that actual incident costs can vary significantly depending on factors including, but not limited to, insurance coverage, regulatory fines, response time, the nature of the affected data, and applicable service rates.
 ---
 
 ## Executive Overview
