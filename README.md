@@ -63,8 +63,8 @@ $$
 | Vector | Rate / Logic |
 | :--- | :--- |
 | **Technical IR** | Incident Response rates at **$325/hr**. |
-| **Digital Forensics** |	Deep-dive forensic analysis and evidence handling at $380/hr. |
-| **Legal Counsel** |	Breach Coach and Privacy Counsel rates at **$600/hr**. |
+| **Digital Forensics** |	Deep-dive forensic analysis, Threat Hunting and evidence handling at $380/hr. |
+| **Legal Counsel** |	Breach Coach, Legal & Privacy Counsel rates at **$600/hr**. |
 | **Notification** |	Blended Canadian logistics (Postal/Email) at **$12/record**.
 | **Monitoring** |	Credit & Identity monitoring (Standard/PHI-enhanced) at **$35–$65/individuals** |.
 
